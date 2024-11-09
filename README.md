@@ -18,6 +18,6 @@ Steps to create a new branch
  5 - edit in this branch 
 
 6 - pulling to a particular branch
-   git pull origin branch name
+    - git pull origin branch name
    
    
