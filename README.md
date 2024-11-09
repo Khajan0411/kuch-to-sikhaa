@@ -14,4 +14,7 @@ Steps to create a new branch
      
  4 - While pushing write
    - push -b branch_name
+
+ 5 - edit in this branch 
+ 
    
