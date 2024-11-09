@@ -16,5 +16,8 @@ Steps to create a new branch
    - push -b branch_name
 
  5 - edit in this branch 
- 
+
+6 - pulling to a particular branch
+   git pull origin branch name
+   
    
